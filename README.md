@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 Interactive Dashboard (Next.js)
+##  Interactive Dashboard (Next.js)
 
 - Real-time threat alerts with color-coded severity.
 - Downloadable `.pcap` logs for forensic analysis.
@@ -46,22 +46,22 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Component         | Technology         |
 |------------------|--------------------|
 | Packet Capture    | Scapy              |
 | Stream Processing | Apache Kafka       |
 | AI Models         | XGBoost, Autoencoder |
-| Dashboard         | Next.js (React)    |
+| Dashboard         | Next.js     |
 | Backend/API       | FastAPI            |
 | Data Processing   | Dask, Pandas       |
 | Email Scanning    | VirusTotal API     |
-| Hosting/Infra     | Google Colab (GPU) |
+| Feature Engineering and Model Building     | Google Colab (GPU) |
 
 ---
 
-## 🚧 Challenges & Solutions
+##  Challenges & Solutions
 
 | Challenge                                 | Solution                                  |
 |------------------------------------------|-------------------------------------------|
@@ -71,7 +71,7 @@
 
 ---
 
-## 🧪 Setup Instructions (Basic)
+##  Setup Instructions (Basic)
 
 ```bash
 # Clone the repo
