@@ -10,6 +10,11 @@
 
 **AI-Driven Insider Activity Detection System** is an end-to-end AI + cybersecurity solution designed to detect, monitor, and report insider threats in real-time. It combines packet-level data analysis, machine learning models, and an interactive dashboard for analysts.
 
+![image](https://github.com/user-attachments/assets/545d135c-934a-4d91-9bd3-cfb4e44ca7fc)
+![image](https://github.com/user-attachments/assets/197b4852-63b0-471d-8d01-e4dae5a4a7a8)
+
+
+
 ---
 
 ##  Core Objectives
